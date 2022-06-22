@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "976186672515",
+    "firebase_url": "https://bhatta-5a0e5-default-rtdb.firebaseio.com",
+    "project_id": "bhatta-5a0e5",
+    "storage_bucket": "bhatta-5a0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976186672515:android:d23b068ee76bea1ed3e2b6",
+        "android_client_info": {
+          "package_name": "com.example.bhattaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976186672515-jsq7rehjkomkove365kod79v6oenfs5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC88VWSR4kmJEnkkk_bBWNDPcC0y0BPcyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976186672515-jsq7rehjkomkove365kod79v6oenfs5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976186672515:android:785cf6e63f6bcab6d3e2b6",
+        "android_client_info": {
+          "package_name": "com.example.bhattausers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976186672515-jsq7rehjkomkove365kod79v6oenfs5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC88VWSR4kmJEnkkk_bBWNDPcC0y0BPcyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976186672515-jsq7rehjkomkove365kod79v6oenfs5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
